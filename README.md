@@ -43,4 +43,4 @@ To learn about Redis, check out the [redis documentation](https://redis.io/docum
 
 ## License
 
-[MIT](https://github.com/anyapages/holy-grail-app/blob/main/LICENSE) 
+[MIT](https://github.com/lcamargop01/holygrail/blob/main/LICENSE) 
